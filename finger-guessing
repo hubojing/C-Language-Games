@@ -1,3 +1,13 @@
+这是一个简单的猜拳游戏（剪子包子锤），让你与电脑对决。你出的拳头由你自己决定，电脑则随机出拳，最后判断胜负。
+
+下面的代码会实现一个猜拳游戏，让你与电脑对决。你出的拳头由你自己决定，电脑则随机出拳，最后判断胜负。
+
+启动程序后，让用户出拳，截图：
+![1](http://c.biancheng.net/cpp/uploads/allimg/141103/1-141103091259115.png)
+
+用户出拳，显示对决结果：截图：
+![2](http://c.biancheng.net/cpp/uploads/allimg/141103/1-1411030913241J.png)
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
